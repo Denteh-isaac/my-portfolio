@@ -41794,20 +41794,41 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-left: auto;
+    width: 63px;
+    height: 33px;
+    margin-top: 18px;
+    margin-left: -12px;
   }
 
   .u-header .u-social-icons-1 {
+    margin-top: -27px;
     margin-right: auto;
   }
 
   .u-header .u-menu-1 {
+    width: auto;
+    margin-right: 9px;
     margin-bottom: 60px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
     min-height: 165px;
+  }
+
+  .u-header .u-image-1 {
+    height: 32px;
+    margin-top: 18px;
+    margin-left: 8px;
+  }
+
+  .u-header .u-social-icons-1 {
+    margin-top: -26px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -32px;
+    margin-right: 12px;
   }
 }
  .u-footer {
